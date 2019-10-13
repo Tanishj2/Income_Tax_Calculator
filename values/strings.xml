@@ -1,5 +1,15 @@
+
 <resources>
     <string name="app_name">Income_Tax</string>
     <string name="value">Value:-</string>
     <string name="tax">Tax Rate:-</string>
+    <string name="age">Enter your AGE </string>
+    <string name="bs">Enter your basic Salary</string>
+    <string name="hra">Enter HRA Per Month</string>
+    <string name="sa">Enter Special Allowance per Month</string>
+    <string name="lta">Enter LTA Anually</string>
+    <string name="rent">Enter Rent per month</string>
+    <string name="bills">Bills Submitted for Travel</string>
 </resources>
+
+
